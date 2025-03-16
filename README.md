@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bittu-art
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning how to manage apis
+- 👀 I’m interested in any kind of development 
+- 🌱 I’m working on microservices 
 - 📫 How to reach me mandalnitesh007@gmail.com
 
 <!---
